@@ -45,8 +45,6 @@ fs.writeFile('./files/test.txt', 'Hello', 'utf8', (err) => {
 fs.appendFileSync('./files/test.txt', ' And I\'m from India!');
 ```
 
-## 4. `fs.appendFile()`
-
 ---
 
 # Read File
